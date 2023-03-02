@@ -24,5 +24,4 @@ public class dni {
 		return "dni = [" + numDni + letraDni + "]";
 	}
 	
-	
 }
